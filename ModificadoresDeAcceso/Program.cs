@@ -26,7 +26,7 @@ namespace ModificadoresDeAcceso
             }
             catch(Exception e)
             {
-                Console.WriteLine("La cupr debe ser de 18 caractres");
+                Console.WriteLine("La curp debe ser de 18 caractres");
             }
 
             
